@@ -1,0 +1,32 @@
+{
+  "HomePage": [
+    {
+      "OnLoad": 0,
+      "TotalTime": 1519,
+      "BackendResponse": 0,
+      "TimeToLoad": 210,
+      "TimeToInteract": 132,
+      "Latency": 1175
+    }
+  ],
+  "SubcategoryPage": [
+    {
+      "OnLoad": 0,
+      "TotalTime": 1332,
+      "BackendResponse": 1,
+      "TimeToLoad": 529,
+      "TimeToInteract": 398,
+      "Latency": 399
+    }
+  ],
+  "CategoryPage": [
+    {
+      "OnLoad": 0,
+      "TotalTime": 1247,
+      "BackendResponse": 0,
+      "TimeToLoad": 24,
+      "TimeToInteract": 58,
+      "Latency": 1160
+    }
+  ]
+}
